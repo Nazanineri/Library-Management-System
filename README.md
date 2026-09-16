@@ -1,19 +1,19 @@
-# Library Management System
+# Library Management System:
 
 A simple Library Management System built with Python and Tkinter.
 
-# Screenshot
+# Screenshot:
 
 ![Library Management System](library-management-system.png)
 
-# Features
+# Features:
 
 1. Add books
 2. Delete books
 3. View the list of books
 4. Manage book information
 
-# Technologies
+# Technologies:
 
 - Python
 - Tkinter
