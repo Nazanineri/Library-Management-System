@@ -4,7 +4,7 @@ A simple Library Management System built with Python and Tkinter.
 
 # Screenshot
 
-![Library Management System](library management system.png)
+![Library Management System](library-management-system.png)
 
 # Features
 
